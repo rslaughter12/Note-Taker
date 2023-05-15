@@ -16,7 +16,7 @@ No Other Contributors
 
 ## License
 
-This project is licensed under the Apache License 2.0 license.
+No License
 
 ## Questions
 
@@ -24,3 +24,7 @@ If you have any questions, please feel free to contact me:
 
 - GitHub: rslaughter12
 - Email: rslaughter12@gmail.com
+
+
+## Video Link
+https://drive.google.com/file/d/1WgXBorx11pzCUuD83ZF52dU4CwU66ljG/view?usp=sharing
